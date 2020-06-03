@@ -5,6 +5,7 @@ def my_collect(array)
   
 while index < array.length
 
+index +=|
 end
 
 end
