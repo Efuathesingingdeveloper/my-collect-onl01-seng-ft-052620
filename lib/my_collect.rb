@@ -8,6 +8,7 @@ yield(array[index])
 index += 1
 end
 
+
 end
 
 #array = ["Tim Jones", "Tom Smith", "Jim Campagno"]
