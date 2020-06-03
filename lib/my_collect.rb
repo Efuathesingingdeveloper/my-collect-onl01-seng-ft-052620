@@ -1,8 +1,9 @@
 
 def my_collect(array)
  
- 
+ index = 0
   
+while
 end
 
 #array = ["Tim Jones", "Tom Smith", "Jim Campagno"]
