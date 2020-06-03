@@ -9,7 +9,7 @@ modified_array << yield(array[index])
   index += 1
 end
 
-modified_array
+ modified_array
 end
 
 #array = ["Tim Jones", "Tom Smith", "Jim Campagno"]
